@@ -3,3 +3,8 @@ data/
 .ipynb_checkpoints
 .venv
 .env
+*.csv
+.venv/
+env/
+ENV/
+*.env
